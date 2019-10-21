@@ -34,6 +34,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 * [Pete Warden's Blog: How can we stop smart sensors from spying on us?](https://petewarden.com/2019/07/26/how-can-we-stop-smart-sensors-from-spying-on-us/)
 * [Easy-to-use GDPR Guide for Data Scientist Part 2](https://medium.com/@korniichuk/gdpr-guide-2-7c399b44ba3)
+* [Sensitive Data in ML Datasets](https://cloud.google.com/solutions/sensitive-data-and-ml-datasets)
 
 
 ## Research
