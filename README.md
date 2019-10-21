@@ -10,7 +10,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 ## Table of Contents
 
  - [Examples](#github-examples)
- - [Tutorials](#github-tutorials)
+ - [Tools](#github-tools)
  - [Blogs](#github-blogs)
  - [Research](#github-research)
 
@@ -20,9 +20,13 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 * [NVIDIA DeepStream SDK Redaction](https://github.com/NVIDIA-AI-IOT/redaction_with_deepstream)
 * [Coral Dev Board PoseNet Anonymizer](https://github.com/google-coral/project-posenet#anonymizerpy)
+* [De-identify Medical Images with AWS](https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/)
+* [De-identify Medical Images with GCP](https://cloud.google.com/healthcare/docs/how-tos/deidentify)
 
-## Tutorials 
-<a name="github-tutorials" />
+## Tools
+<a name="github-tools" />
+
+* [NIST De-identification tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse/de-identification-tools)
 
 
 ## Blogs
@@ -33,3 +37,5 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 ## Research
 <a name="github-research" />
+
+* [De-Identification Without Losing Faces](https://arxiv.org/pdf/1902.04202.pdf)
