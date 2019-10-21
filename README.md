@@ -9,12 +9,12 @@ Often regulatory or ethical considerations frame the need to remove personally i
 
 The distribution of IoT/robotics hardware will exacerbate tensions around security & privacy if we don't treat it as a proper engineering constraint. With this collection of resources, we aim to lower the friction to implementing these techniques.
 
-## Table of Contents
+<!--## Table of Contents
 
  - [Examples](#github-examples)
  - [Tools](#github-tools)
  - [Blogs](#github-blogs)
- - [Research](#github-research)
+ - [Research](#github-research) -->
 
 
 ## Examples
