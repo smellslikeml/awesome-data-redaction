@@ -16,17 +16,20 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 
 <a name="github-examples" />
-
 ## Examples
 
-<a name="github-tutorials" />
+* [NVIDIA DeepStream SDK Redaction](https://github.com/NVIDIA-AI-IOT/redaction_with_deepstream)
+* [Coral Dev Board PoseNet Anonymizer](https://github.com/google-coral/project-posenet#anonymizerpy)
 
+<a name="github-tutorials" />
 ## Tutorials 
 
-<a name="github-blogs" />
 
+<a name="github-blogs" />
 ## Blogs
 
-<a name="github-research" />
+* [Pete Warden's Blog: How can we stop smart sensors from spying on us?](https://petewarden.com/2019/07/26/how-can-we-stop-smart-sensors-from-spying-on-us/)
 
+
+<a name="github-research" />
 ## Research
