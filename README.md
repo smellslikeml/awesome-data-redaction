@@ -5,7 +5,7 @@ A curated list of resources for programmatically redacting personally identifiab
 
 Often regulatory or ethical considerations frame the need to remove personally identifiable information to protect individual privacy. Modern technologies using machine learning are used to learn generalizable patterns that enable developers to perform this task programmatically. 
 
-The blossoming of IoT and robotics will exacerbate tensions around privacy if we don't engineer solutions early on. With this collection of resources, we aim to lower the friction to implementing these techniques.
+The distribution of IoT/robotics hardware will exacerbate tensions around security & privacy if we don't treat it as a proper engineering constraint. With this collection of resources, we aim to lower the friction to implementing these techniques.
 
 ## Table of Contents
 
