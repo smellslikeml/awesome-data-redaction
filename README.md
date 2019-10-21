@@ -31,5 +31,5 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 * [Pete Warden's Blog: How can we stop smart sensors from spying on us?](https://petewarden.com/2019/07/26/how-can-we-stop-smart-sensors-from-spying-on-us/)
 
 
-<a name="github-research" />
 ## Research
+<a name="github-research" />
