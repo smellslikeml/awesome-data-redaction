@@ -39,4 +39,5 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 ## Research
 <a name="github-research" />
 
+* [Data Privacy Through Optimal k-Anonymization](https://personal.utdallas.edu/~muratk/courses/privacy08f_files/proj_files/Data%20Privacy%20Through%20Optimal%20k-Anonymization.pdf)
 * [De-Identification Without Losing Faces](https://arxiv.org/pdf/1902.04202.pdf)
