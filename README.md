@@ -3,6 +3,8 @@ A curated list of resources for programmatically redacting personally identifiab
 
 ## Why Data Redaction?
 
+![Anonymous Stroll](https://github.com/smellslikeml/awesome-data-redaction/blob/master/scrubbed.gif?raw=true)
+
 Often regulatory or ethical considerations frame the need to remove personally identifiable information to protect individual privacy. Modern technologies using machine learning are used to learn generalizable patterns that enable developers to perform this task programmatically. 
 
 The distribution of IoT/robotics hardware will exacerbate tensions around security & privacy if we don't treat it as a proper engineering constraint. With this collection of resources, we aim to lower the friction to implementing these techniques.
@@ -17,7 +19,6 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 ## Examples
 <a name="github-examples" />
-![Anonymous Stroll](https://github.com/smellslikeml/awesome-data-redaction/blob/master/scrubbed.gif?raw=true)
 
 * [NVIDIA DeepStream SDK Redaction](https://github.com/NVIDIA-AI-IOT/redaction_with_deepstream)
 * [Coral Dev Board PoseNet Anonymizer](https://github.com/google-coral/project-posenet#anonymizerpy)
