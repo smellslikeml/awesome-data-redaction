@@ -17,7 +17,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 
 ## Examples
 <a name="github-examples" />
-![Anonymous Stroll](https://github.com/smellslikeml/awesome-data-redaction/blob/master/scrubbed.gif)
+![Anonymous Stroll](https://github.com/smellslikeml/awesome-data-redaction/blob/master/scrubbed.gif?raw=true)
 
 * [NVIDIA DeepStream SDK Redaction](https://github.com/NVIDIA-AI-IOT/redaction_with_deepstream)
 * [Coral Dev Board PoseNet Anonymizer](https://github.com/google-coral/project-posenet#anonymizerpy)
