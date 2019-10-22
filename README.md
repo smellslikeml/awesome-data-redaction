@@ -24,7 +24,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 * [Coral Dev Board PoseNet Anonymizer](https://github.com/google-coral/project-posenet#anonymizerpy)
 * [De-identify Medical Images with AWS](https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/)
 * [De-identify Medical Images with GCP](https://cloud.google.com/healthcare/docs/how-tos/deidentify)
-* [Deidentifcation by Image Segmentation & Blurring](https://github.com/smellslikeml/awesome-data-redaction/blob/master/deidentifcation_by_segmentation.ipynb)
+* [Deidentifcation by Image Segmentation & Blurring](https://github.com/smellslikeml/awesome-data-redaction/blob/master/notebooks/deidentifcation_by_segmentation.ipynb)
 
 ## Tools
 <a name="github-tools" />
