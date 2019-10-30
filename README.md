@@ -25,6 +25,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 * [De-identify Medical Images with AWS](https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/)
 * [De-identify Medical Images with GCP](https://cloud.google.com/healthcare/docs/how-tos/deidentify)
 * [Deidentifcation by Image Segmentation & Blurring](https://github.com/smellslikeml/awesome-data-redaction/blob/master/deidentifcation_by_segmentation.ipynb)
+* [Deidentifcation by Image Segmentation & Blurring ROS Node](https://github.com/smellslikeml/awesome-data-redaction/blob/master/ros/)
 
 ## Tools
 <a name="github-tools" />
