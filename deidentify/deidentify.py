@@ -21,14 +21,15 @@ def img_prep(mdl, frame):
     im = im / 255
     return im.astype(mdl.input_details[0]['dtype'])
 
-def post_process(res, frame, kern_size):
+def post_process(res, frame):
     res = np.argmax(res, axis=3)[0]
     res = 255 * (res==15).astype(np.uint8)
-    mask = cv2.resize(res, frame.shape[:2][::-1])
+    img_shape = frame.shape[:2][::-1]
+    mask = cv2.resize(res, img_shape)
     gray = cv2.cvtColor(mask, cv2.COLOR_GRAY2RGB)
     not_gray = cv2.bitwise_not(gray)
 
-    blur = cv2.medianBlur((frame).astype(np.uint8), kern_size)
+    blur = cv2.medianBlur((frame).astype(np.uint8), np.min(img_shape) / 5 + 1)
 
     im1 = cv2.bitwise_and(blur, gray)
     im2 = cv2.bitwise_and(frame, not_gray)
@@ -76,7 +77,7 @@ class image_converter:
 
     print(elapsed)
 
-    args = (res, frame, kern_size)
+    args = (res, frame)
     result = post_process(*args)
 
     cv2.imshow("Image window", result)
@@ -97,7 +98,6 @@ def main(args):
   cv2.destroyAllWindows()
 
 if __name__ == '__main__':
-    kern_size = 31
     mdl_file = 'deeplabv3_257_mv_gpu.tflite'
     MDL_DIR = os.environ['HOME'] + '/Downloads/' 
     mdl_path = os.path.join(MDL_DIR, mdl_file)
