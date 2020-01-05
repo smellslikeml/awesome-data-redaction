@@ -32,6 +32,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 <a name="github-tools" />
 
 * [NIST De-identification tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse/de-identification-tools)
+* [Scrub PII with tfjs](http://smellslikeml.com/pii_masking_demo.html)
 
 
 ## Blogs
