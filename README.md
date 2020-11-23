@@ -27,13 +27,12 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 * [Deidentifcation by Image Segmentation & Blurring](https://github.com/smellslikeml/awesome-data-redaction/blob/master/deidentifcation_by_segmentation.ipynb)
 * [Deidentifcation by Image Segmentation & Blurring ROS Node](https://github.com/smellslikeml/awesome-data-redaction/blob/master/ros/)
 * [Redact PII in Text](https://github.com/solvvy/redact-pii)
-
 ## Tools
 <a name="github-tools" />
 
 * [NIST De-identification tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse/de-identification-tools)
 * [Scrub PII with tfjs](http://smellslikeml.com/pii_masking_demo.html)
-
+* [Presidio: PII anonymization service](https://github.com/microsoft/presidio)
 
 ## Blogs
 <a name="github-blogs" />
@@ -41,7 +40,7 @@ The distribution of IoT/robotics hardware will exacerbate tensions around securi
 * [How can we stop smart sensors from spying on us?](https://petewarden.com/2019/07/26/how-can-we-stop-smart-sensors-from-spying-on-us/)
 * [Easy-to-use GDPR Guide for Data Scientist Part 2](https://medium.com/@korniichuk/gdpr-guide-2-7c399b44ba3)
 * [Sensitive Data in ML Datasets](https://cloud.google.com/solutions/sensitive-data-and-ml-datasets)
-
+* [Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
 
 ## Research
 <a name="github-research" />
